@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  font-family: "Open Sans", sans-serif;
+}
+
+button {
+  cursor: pointer;
+}
+
+.coffee-logo {
+  height: 24px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  font-size: 24px;
+  font-weight: 700;
+  height: 72px;
+  background-color: #43281c;
+  color: #fbf2c0;
+}
+
+.order-card-container {
+  background-color: #eee1d5;
+  color: #885a2d;
+}
+
+.order-card-title {
+  font-weight: normal;
+}
