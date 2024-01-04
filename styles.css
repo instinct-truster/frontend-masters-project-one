@@ -14,7 +14,8 @@ button {
 }
 
 .coffee-logo {
-  height: 24px;
+  height: 25px;
+  margin-top: -1px;
 }
 
 .header {
@@ -24,16 +25,16 @@ button {
   gap: 7px;
   font-size: 24px;
   font-weight: 700;
-  height: 72px;
+  height: 73px;
   background-color: #43281c;
   color: #fbf2c0;
 }
 
-.order-card-container {
+.container {
   background-color: #eee1d5;
   color: #885a2d;
 }
 
-.order-card-title {
+.order-title {
   font-weight: normal;
 }
